@@ -44,6 +44,13 @@
             "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Needle in a Haystack-8fwMUzje4HA.mp4?raw=true"
         },
         {
+            "id": "BKeI4jVuAwI",
+            "name": "Obertura, Op. 1-BKeI4jVuAwI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Obertura, Op. 1-BKeI4jVuAwI.mp4",
+            "size": 10.850686,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Obertura, Op. 1-BKeI4jVuAwI.mp4?raw=true"
+        },
+        {
             "id": "HqIL0ddTNTQ",
             "name": "Concierto De Aranjuez - 2. Adagio-HqIL0ddTNTQ.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Concierto De Aranjuez - 2. Adagio-HqIL0ddTNTQ.mp4",
@@ -107,6 +114,13 @@
             "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Les patineurs, Op. 183 'Skater's Waltz' - Let Patineurs, Op. 183-lRcXC_9qcj0.mp4?raw=true"
         },
         {
+            "id": "_ZOL_NPwedk",
+            "name": "Offenbach - Le voyage dans la lune _ Ballet des Flocons de neige - Polka-_ZOL_NPwedk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Offenbach - Le voyage dans la lune _ Ballet des Flocons de neige - Polka-_ZOL_NPwedk.mp4",
+            "size": 1.380949,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Offenbach - Le voyage dans la lune _ Ballet des Flocons de neige - Polka-_ZOL_NPwedk.mp4?raw=true"
+        },
+        {
             "id": "0YIGqj8Jel8",
             "name": "Dietrich Buxtehude - Herr, wenn ich nur dich habe, BuxWV.38 (c. 1668)-0YIGqj8Jel8.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Dietrich Buxtehude - Herr, wenn ich nur dich habe, BuxWV.38 (c. 1668)-0YIGqj8Jel8.mp4",
@@ -126,6 +140,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Wake Up-FqqXO-jTsFY.mp4",
             "size": 7.009136,
             "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Wake Up-FqqXO-jTsFY.mp4?raw=true"
+        },
+        {
+            "id": "J-6TbewMNxU",
+            "name": "The Three Suns - Easy Listening (1956) LP [Mono]-J-6TbewMNxU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/The Three Suns - Easy Listening (1956) LP [Mono]-J-6TbewMNxU.mp4",
+            "size": 42.075876,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/The Three Suns - Easy Listening (1956) LP [Mono]-J-6TbewMNxU.mp4?raw=true"
         },
         {
             "id": "ChNqn6_EP2Y",
@@ -177,6 +198,13 @@
             "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Johann Nepomuk Hummel - Piano Concerto in E major No.4, Op.110, 'Les Adieux', Hans Kann-t-PACiGaFDI.mp4?raw=true"
         },
         {
+            "id": "Rzt4LkVBtJg",
+            "name": "American Ballet Theatre 02) Delibes Sylvia, pas de deux-Rzt4LkVBtJg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/American Ballet Theatre 02) Delibes Sylvia, pas de deux-Rzt4LkVBtJg.mp4",
+            "size": 29.961986,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/American Ballet Theatre 02) Delibes Sylvia, pas de deux-Rzt4LkVBtJg.mp4?raw=true"
+        },
+        {
             "id": "18AbcwXoU3k",
             "name": "Por Eso Te Quiero (Remastered)-18AbcwXoU3k.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Por Eso Te Quiero (Remastered)-18AbcwXoU3k.mp4",
@@ -217,6 +245,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Ravel - Le Tombeau de Couperin, orchestration compl\u00e8te-Wkt8T38aaMw.mp4",
             "size": 28.460006,
             "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Ravel - Le Tombeau de Couperin, orchestration compl\u00e8te-Wkt8T38aaMw.mp4?raw=true"
+        },
+        {
+            "id": "8hLLL6gyUvg",
+            "name": "the seduction of claude debussy-8hLLL6gyUvg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/the seduction of claude debussy-8hLLL6gyUvg.mp4",
+            "size": 72.30887299999999,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/the seduction of claude debussy-8hLLL6gyUvg.mp4?raw=true"
         },
         {
             "id": "GxekR1bqbpQ",
@@ -324,5 +359,5 @@
             "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Geneva Camerata - Stravinsky - 'Dumbarton Oaks'-jX6Fd5B5lbQ.mp4?raw=true"
         }
     ],
-    "total_size": 755.5467530000003
+    "total_size": 912.1251230000001
 }
