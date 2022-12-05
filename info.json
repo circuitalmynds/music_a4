@@ -1,5 +1,55 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "0YIGqj8Jel8",
+            "name": "Dietrich Buxtehude - Herr, wenn ich nur dich habe, BuxWV.38 (c. 1668)-0YIGqj8Jel8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Dietrich Buxtehude - Herr, wenn ich nur dich habe, BuxWV.38 (c. 1668)-0YIGqj8Jel8.mp4",
+            "size": 7.463686,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Dietrich Buxtehude - Herr, wenn ich nur dich habe, BuxWV.38 (c. 1668)-0YIGqj8Jel8.mp4?raw=true"
+        },
+        {
+            "id": "FqqXO-jTsFY",
+            "name": "Wake Up-FqqXO-jTsFY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Wake Up-FqqXO-jTsFY.mp4",
+            "size": 7.009136,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Wake Up-FqqXO-jTsFY.mp4?raw=true"
+        },
+        {
+            "id": "tvCe2Uczw8E",
+            "name": "Embraceable You-tvCe2Uczw8E.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Embraceable You-tvCe2Uczw8E.mp4",
+            "size": 2.9100699999999997,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Embraceable You-tvCe2Uczw8E.mp4?raw=true"
+        },
+        {
+            "id": "ZhqAzmm5sSE",
+            "name": "Julius Fu\u010d\u00edk (1872-1916)  - Three Waltzes (1894-1909), conducted by V\u00e1clav Neumann-ZhqAzmm5sSE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Julius Fu\u010d\u00edk (1872-1916)  - Three Waltzes (1894-1909), conducted by V\u00e1clav Neumann-ZhqAzmm5sSE.mp4",
+            "size": 60.122446,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Julius Fu\u010d\u00edk (1872-1916)  - Three Waltzes (1894-1909), conducted by V\u00e1clav Neumann-ZhqAzmm5sSE.mp4?raw=true"
+        },
+        {
+            "id": "tcG0h1q5C-A",
+            "name": "Itzhak Perlman Spielt Fritz Kreisler 1-tcG0h1q5C-A.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Itzhak Perlman Spielt Fritz Kreisler 1-tcG0h1q5C-A.mp4",
+            "size": 93.20626999999999,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Itzhak Perlman Spielt Fritz Kreisler 1-tcG0h1q5C-A.mp4?raw=true"
+        },
+        {
+            "id": "MubmKRSBibk",
+            "name": "Liszt - 12 Etudes d'ex\u00e9cution transcendante, S. 139 - No. 2 Molto vivace-MubmKRSBibk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Liszt - 12 Etudes d'ex\u00e9cution transcendante, S. 139 - No. 2 Molto vivace-MubmKRSBibk.mp4",
+            "size": 1.48965,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Liszt - 12 Etudes d'ex\u00e9cution transcendante, S. 139 - No. 2 Molto vivace-MubmKRSBibk.mp4?raw=true"
+        },
+        {
+            "id": "B7OYrWOw3Kc",
+            "name": "Liszt - Vergiftet sind meine Lieder, S.289-B7OYrWOw3Kc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Liszt - Vergiftet sind meine Lieder, S.289-B7OYrWOw3Kc.mp4",
+            "size": 1.3210849999999998,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Liszt - Vergiftet sind meine Lieder, S.289-B7OYrWOw3Kc.mp4?raw=true"
+        }
+    ],
+    "total_size": 173.522343
 }
