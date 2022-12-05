@@ -16,6 +16,20 @@
             "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Needle in a Haystack-8fwMUzje4HA.mp4?raw=true"
         },
         {
+            "id": "i6Ae3ez2QFk",
+            "name": "Berlioz - Rob Roy Overture-i6Ae3ez2QFk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Berlioz - Rob Roy Overture-i6Ae3ez2QFk.mp4",
+            "size": 22.599221999999997,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Berlioz - Rob Roy Overture-i6Ae3ez2QFk.mp4?raw=true"
+        },
+        {
+            "id": "Y2muK7GPbpg",
+            "name": "E R A S U R E - T h e  I n n o c e n t s - 1988 _LP Album-Y2muK7GPbpg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/E R A S U R E - T h e  I n n o c e n t s - 1988 _LP Album-Y2muK7GPbpg.mp4",
+            "size": 54.114339,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/E R A S U R E - T h e  I n n o c e n t s - 1988 _LP Album-Y2muK7GPbpg.mp4?raw=true"
+        },
+        {
             "id": "PxUHiLc_g0U",
             "name": "Keyboard Sonata No. 9 in D Major, Hob. XVI, 4 - II. Menuet-PxUHiLc_g0U.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Keyboard Sonata No. 9 in D Major, Hob. XVI, 4 - II. Menuet-PxUHiLc_g0U.mp4",
@@ -79,6 +93,13 @@
             "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Por Eso Te Quiero (Remastered)-18AbcwXoU3k.mp4?raw=true"
         },
         {
+            "id": "V27Knh2rUMo",
+            "name": "Liszt, Verdi - I Lombardi - Salve Maria - Concert Paraphrase, S.431-V27Knh2rUMo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Liszt, Verdi - I Lombardi - Salve Maria - Concert Paraphrase, S.431-V27Knh2rUMo.mp4",
+            "size": 3.860293,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Liszt, Verdi - I Lombardi - Salve Maria - Concert Paraphrase, S.431-V27Knh2rUMo.mp4?raw=true"
+        },
+        {
             "id": "GxekR1bqbpQ",
             "name": "Liszt - Ann\u00e9es de p\u00e8lerinage II, S. 161 - VII. Apr\u00e8s une lecture du Dante (Fantasia quasi Sonata)-GxekR1bqbpQ.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Liszt - Ann\u00e9es de p\u00e8lerinage II, S. 161 - VII. Apr\u00e8s une lecture du Dante (Fantasia quasi Sonata)-GxekR1bqbpQ.mp4",
@@ -112,7 +133,14 @@
             "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Road Life-a-DnrM6aS9Q.mp4",
             "size": 4.85278,
             "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Road Life-a-DnrM6aS9Q.mp4?raw=true"
+        },
+        {
+            "id": "jX6Fd5B5lbQ",
+            "name": "Geneva Camerata - Stravinsky - 'Dumbarton Oaks'-jX6Fd5B5lbQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Geneva Camerata - Stravinsky - 'Dumbarton Oaks'-jX6Fd5B5lbQ.mp4",
+            "size": 54.858613,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Geneva Camerata - Stravinsky - 'Dumbarton Oaks'-jX6Fd5B5lbQ.mp4?raw=true"
         }
     ],
-    "total_size": 274.4805779999999
+    "total_size": 409.91304499999995
 }
