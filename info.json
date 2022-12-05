@@ -93,6 +93,13 @@
             "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Dietrich Buxtehude - Herr, wenn ich nur dich habe, BuxWV.38 (c. 1668)-0YIGqj8Jel8.mp4?raw=true"
         },
         {
+            "id": "S3xkpDdQFaE",
+            "name": "Serenata Espa\u00f1ola in D-Flat Major, Op. 181-S3xkpDdQFaE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Serenata Espa\u00f1ola in D-Flat Major, Op. 181-S3xkpDdQFaE.mp4",
+            "size": 3.932928,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Serenata Espa\u00f1ola in D-Flat Major, Op. 181-S3xkpDdQFaE.mp4?raw=true"
+        },
+        {
             "id": "FqqXO-jTsFY",
             "name": "Wake Up-FqqXO-jTsFY.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Wake Up-FqqXO-jTsFY.mp4",
@@ -112,6 +119,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Embraceable You-tvCe2Uczw8E.mp4",
             "size": 2.9100699999999997,
             "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Embraceable You-tvCe2Uczw8E.mp4?raw=true"
+        },
+        {
+            "id": "EHmPUdn16rI",
+            "name": "En Tres Por Cuatro (Remastered)-EHmPUdn16rI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/En Tres Por Cuatro (Remastered)-EHmPUdn16rI.mp4",
+            "size": 2.567376,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/En Tres Por Cuatro (Remastered)-EHmPUdn16rI.mp4?raw=true"
         },
         {
             "id": "97suGqO4CfI",
@@ -163,11 +177,25 @@
             "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Liszt, Verdi - I Lombardi - Salve Maria - Concert Paraphrase, S.431-V27Knh2rUMo.mp4?raw=true"
         },
         {
+            "id": "_p7K2pnmy00",
+            "name": "Mac DeMarco - Full Performance (Live on KEXP)-_p7K2pnmy00.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Mac DeMarco - Full Performance (Live on KEXP)-_p7K2pnmy00.mp4",
+            "size": 85.85284,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Mac DeMarco - Full Performance (Live on KEXP)-_p7K2pnmy00.mp4?raw=true"
+        },
+        {
             "id": "B85s42tvXZE",
             "name": "Liszt - 12 Etudes d'ex\u00e9cution transcendante, S. 139 - No. 11 Harmonies du soir (Andantino)-B85s42tvXZE.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Liszt - 12 Etudes d'ex\u00e9cution transcendante, S. 139 - No. 11 Harmonies du soir (Andantino)-B85s42tvXZE.mp4",
             "size": 5.626028,
             "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Liszt - 12 Etudes d'ex\u00e9cution transcendante, S. 139 - No. 11 Harmonies du soir (Andantino)-B85s42tvXZE.mp4?raw=true"
+        },
+        {
+            "id": "Wkt8T38aaMw",
+            "name": "Ravel - Le Tombeau de Couperin, orchestration compl\u00e8te-Wkt8T38aaMw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Ravel - Le Tombeau de Couperin, orchestration compl\u00e8te-Wkt8T38aaMw.mp4",
+            "size": 28.460006,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Ravel - Le Tombeau de Couperin, orchestration compl\u00e8te-Wkt8T38aaMw.mp4?raw=true"
         },
         {
             "id": "GxekR1bqbpQ",
@@ -210,6 +238,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Turbilh\u00e3o-J1pCH57U8MA.mp4",
             "size": 2.055119,
             "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Turbilh\u00e3o-J1pCH57U8MA.mp4?raw=true"
+        },
+        {
+            "id": "6BODDyZRF6A",
+            "name": "Dexys Midnight Runners, Kevin Rowland - Come On Eileen (1982 Version)-6BODDyZRF6A.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/a4/videos/Dexys Midnight Runners, Kevin Rowland - Come On Eileen (1982 Version)-6BODDyZRF6A.mp4",
+            "size": 6.538456999999999,
+            "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Dexys Midnight Runners, Kevin Rowland - Come On Eileen (1982 Version)-6BODDyZRF6A.mp4?raw=true"
         },
         {
             "id": "B7OYrWOw3Kc",
@@ -261,5 +296,5 @@
             "url": "https://github.com/circuitalmynds/music_a4/blob/main/videos/Geneva Camerata - Stravinsky - 'Dumbarton Oaks'-jX6Fd5B5lbQ.mp4?raw=true"
         }
     ],
-    "total_size": 511.319799
+    "total_size": 638.6714060000002
 }
